@@ -1,0 +1,238 @@
+{
+  "nav": {
+    "scissors": "Scissors",
+    "razors": "Razors",
+    "manicure": "Manicure-Pedicure",
+    "accessories": "Accessories",
+    "more": "More"
+  },
+  "hero": {
+    "title": "C440 Professional Series",
+    "description": "Experience precision craftsmanship with our premium C440 collection"
+  },
+  "sections": {
+    "topSellers": "Top Sellers",
+    "newArrivals": "New Arrivals",
+    "productKnowledge": "Product Knowledge",
+    "featuredProducts": "Featured Products",
+    "seeMore": "See More",
+    "viewAll": "View All",
+    "c420Description": "Discover the elegance and precision of our C420 scissors range",
+    "featuredDescription": "Explore our collection of premium scissors and grooming tools, crafted with precision for professionals."
+  },
+  "cta": {
+    "title": "Discover Your Professional Tools Today",
+    "description": "15% off entire collection - Limited time offer",
+    "button": "Shop Now",
+    "bannerTitle": "Exclusive discounts up to 40%",
+    "bannerDescription": "Discover special offers in the PUNJA SALE while stocks last.",
+    "bannerButton": "View Sale"
+  },
+  "search": {
+    "placeholder": "Search products...",
+    "noResults": "No results found. Try different keywords.",
+    "results": "Search Results",
+    "moreResults": "+{count} more results",
+    "suggestions": "Suggestions",
+    "trySearching": "Try searching for: scissors, razors, knives, or accessories"
+  },
+  "pages": {
+    "scissors": {
+      "title": "Professional Scissors Collection",
+      "description": "Discover our complete range of professional scissors, from the legendary C440 series to specialized cutting tools for every technique."
+    },
+    "razors": {
+      "title": "Straight Razors",
+      "description": "Experience the art of traditional shaving with our collection of professional straight razors, crafted for barbers who demand perfection."
+    },
+    "manicure": {
+      "title": "Manicure & Pedicure Tools",
+      "description": "Professional-grade tools for precise nail care and grooming."
+    },
+    "accessories": {
+      "title": "Professional Accessories",
+      "description": "Complete your professional toolkit with our range of premium accessories, from barber essentials to kitchen cutting tools."
+    }
+  },
+  "product": {
+    "quickView": "Quick view",
+    "addToCart": "Add",
+    "category": {
+      "c440": "C440 Series",
+      "c420": "C420 Series",
+      "c2": "C2 Series",
+      "specialist": "Specialist",
+      "professional": "Professional",
+      "manicure": "Manicure",
+      "pedicure": "Pedicure",
+      "barberTools": "Barber Tools",
+      "kitchen": "Kitchen"
+    }
+  },
+  "products": {
+    "scissors": {
+      "c440Professional": "C440 Professional Barber Scissors",
+      "c440Premium": "C440 Premium Grooming Scissors",
+      "c420Classic": "C420 Classic Haircutting Scissors",
+      "c420Thinning": "C420 Thinning Scissors",
+      "c2Ergonomic": "C2 Ergonomic Cutting Shears",
+      "professionalThinning": "Professional Thinning Scissors",
+      "curvedDetail": "Curved Detail Scissors",
+      "texturizing": "Texturizing Shears",
+      "c440Titanium": "C440 Titanium Coated Scissors",
+      "professional65": "Professional Hair Cutting Shears 6.5\"",
+      "c420Precision": "C420 Precision Cutting Scissors",
+      "japaneseSteel": "Japanese Steel Professional Scissors",
+      "premium7": "Premium Barber Scissors 7\"",
+      "surgicalGrade": "Surgical Grade Cutting Shears",
+      "leftHanded": "Ergonomic Left-Handed Scissors",
+      "blending": "Professional Blending Scissors"
+    },
+    "razors": {
+      "classicStraight": "Classic Straight Razor",
+      "premiumBlack": "Premium Black Handle Razor",
+      "chromeFinish": "Chrome Finish Straight Razor",
+      "damascusSteel": "Damascus Steel Straight Razor",
+      "vintageStyle": "Vintage Style Barber Razor",
+      "carbonSteel": "Professional Carbon Steel Razor",
+      "swedishSteel": "Swedish Steel Straight Razor",
+      "goldPlated": "Gold-Plated Luxury Razor",
+      "japaneseStyle": "Japanese Style Straight Razor",
+      "descriptions": {
+        "classicStraight": "Traditional straight razor with precision-ground blade for the perfect shave",
+        "premiumBlack": "Ergonomic design with premium black handle for superior control",
+        "chromeFinish": "Classic chrome finish with Damascus steel blade for exceptional edge retention",
+        "damascusSteel": "Premium Damascus steel blade with hand-forged pattern for ultimate sharpness",
+        "vintageStyle": "Classic vintage design with modern precision engineering",
+        "carbonSteel": "High-carbon steel blade with exceptional edge retention and durability",
+        "swedishSteel": "Premium Swedish steel with mirror polish finish for professional barbers",
+        "goldPlated": "Luxury gold-plated handle with precision-ground stainless steel blade",
+        "japaneseStyle": "Traditional Japanese craftsmanship with modern ergonomic design"
+      }
+    },
+    "manicure": {
+      "professionalManicure": "Professional Manicure Scissors",
+      "curvedCuticle": "Curved Cuticle Scissors",
+      "completePedicure": "Complete Pedicure Tool Set",
+      "premiumClipper": "Premium Nail Clipper Set",
+      "cuticlePusher": "Professional Cuticle Pusher",
+      "nailFileSet": "Stainless Steel Nail File Set",
+      "toenailClippers": "Professional Toenail Clippers",
+      "completeKit": "Complete Manicure & Pedicure Kit",
+      "precisionNail": "Precision Nail Scissors"
+    },
+    "accessories": {
+      "groomingKit": "Professional Grooming Kit",
+      "barberSet": "Barber Accessories Set",
+      "kitchenKnife": "Professional Kitchen Knife",
+      "chefKnife8": "Chef's Knife 8\" Premium",
+      "santokuKnife": "Japanese Santoku Knife",
+      "boningKnife": "Boning Knife Professional",
+      "barberCape": "Barber Cape & Clipper Set",
+      "combSet": "Professional Comb Set",
+      "paringKnife": "Paring Knife Set 3-Piece",
+      "breadKnife": "Bread Knife Serrated",
+      "shearsCase": "Barber Shears Case Set",
+      "steakKnife": "Steak Knife Set 6-Piece"
+    }
+  },
+  "footer": {
+    "punja": "PUNJA",
+    "shop": "Shop",
+    "service": "Service",
+    "legal": "Legal",
+    "aboutPunja": "About Punja",
+    "qualityMarks": "Quality marks",
+    "production": "Production",
+    "scissors": "Scissors",
+    "razors": "Razors",
+    "manicurePedicure": "Manicure-Pedicure",
+    "accessories": "Accessories",
+    "sharpening": "Sharpening",
+    "faq": "FAQ",
+    "resellerFinder": "Reseller Finder",
+    "terms": "Terms & conditions",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "copyright": "© Punja Scissors"
+  },
+  "productKnowledge": {
+    "description": "Learn about the craftsmanship, materials, and techniques that make our scissors exceptional. Discover how to choose the right tool for your needs and maintain it for lasting performance.",
+    "premiumSteel": "Premium Japanese steel construction",
+    "ergonomicDesign": "Ergonomic design for extended use",
+    "maintenance": "Professional maintenance guidelines",
+    "yearsExperience": "Years Experience",
+    "qualityAssured": "Quality Assured",
+    "professionalsTrust": "Professionals Trust Us",
+    "productRange": "Product Range",
+    "page": {
+      "title": "Product Knowledge",
+      "description": "Learn about our products, their care, and how to choose the right tools for your needs.",
+      "questions": {
+        "chooseScissors": {
+          "title": "How to choose the right scissors?",
+          "answer": "Consider your cutting technique, hand size, and the type of work you do most often. Our C440 series offers versatile options for general cutting, while specialized thinning and texturizing shears are ideal for specific techniques. The blade length typically ranges from 5.5\" to 7\", with 6\" being the most popular for all-around use."
+        },
+        "careMaintenance": {
+          "title": "Proper care and maintenance",
+          "answer": "Clean your scissors after each use with a soft cloth. Oil the pivot point regularly with professional shear oil. Store in a protective case when not in use. Have them professionally sharpened annually or when you notice decreased cutting performance. Never use scissors on anything other than hair to maintain blade integrity."
+        },
+        "scissorTypes": {
+          "title": "Understanding scissor types",
+          "answer": "<strong>Cutting Shears:</strong> For general haircutting and creating shapes.<br/><strong>Thinning Shears:</strong> One or both blades have teeth for removing bulk.<br/><strong>Texturizing Shears:</strong> Wider teeth spacing for softer, more blended results.<br/><strong>Curved Shears:</strong> Ideal for detail work and precision cutting."
+        },
+        "c440Special": {
+          "title": "What makes our C440 series special?",
+          "answer": "The C440 series represents our flagship professional line. Made from premium Japanese steel with a Rockwell hardness of 58-60, these scissors maintain their edge longer than conventional shears. The ergonomic design reduces hand fatigue during extended use, and the convex edge provides the smoothest cutting action for effortless precision."
+        },
+        "razorCare": {
+          "title": "Straight razor care",
+          "answer": "After each use, clean and dry the blade thoroughly. Strop the blade regularly to maintain the edge. For traditional carbon steel razors, apply a thin coat of oil when storing. Professional honing should be done every few months depending on usage. Always store in a dry environment to prevent rust."
+        },
+        "warrantySupport": {
+          "title": "Warranty and support",
+          "answer": "All Punja products come with our craftsmanship guarantee. Manufacturing defects are covered under warranty. We offer professional sharpening services and repairs for the lifetime of your tools. Contact your authorized dealer for warranty service and maintenance support."
+        }
+      }
+    }
+  },
+  "newArrivals": {
+    "title": "New Arrivals",
+    "description": "Introducing our latest additions to the professional grooming collection"
+  },
+  "topSellers": {
+    "title": "Top Sellers",
+    "description": "Our most popular professional scissors trusted by experts worldwide"
+  },
+  "about": {
+    "title": "About Punja",
+    "intro": "Punja represents decades of dedication to the craft of precision tool manufacturing. Our heritage is built on an unwavering commitment to quality, combining traditional craftsmanship with modern innovation.",
+    "craftsmanship": {
+      "title": "Our Craftsmanship",
+      "description": "Every Punja product is meticulously crafted using premium materials and time-honored techniques. Our master craftsmen bring generations of expertise to each piece, ensuring that every scissor, razor, and tool meets the exacting standards that professionals demand."
+    },
+    "heritage": {
+      "title": "Heritage & Innovation",
+      "description": "While we honor traditional manufacturing methods, we continuously innovate to meet the evolving needs of modern professionals. Our legendary C440 series exemplifies this balance, combining classic design with cutting-edge precision engineering."
+    },
+    "dedication": {
+      "title": "Industry Dedication",
+      "description": "Punja tools are trusted by professionals worldwide. From master barbers to skilled craftsmen, our products empower artisans to perform their craft with confidence and precision. We don't just make tools—we create instruments that enable excellence."
+    },
+    "quote": "Quality is not an act, it is a habit. At Punja, excellence is our standard."
+  },
+  "c420": {
+    "image1": {
+      "title": "Professional Precision",
+      "description": "Engineered for professional barbers with unmatched cutting precision and durability."
+    },
+    "image2": {
+      "title": "Elegant Design",
+      "description": "Sleek ergonomic design that combines comfort with exceptional performance."
+    },
+    "image3": {
+      "title": "Master Craftsmanship",
+      "description": "Handcrafted excellence that meets the highest standards of professional grooming."
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "nav": {
+    "scissors": "Scheren",
+    "razors": "Rasiermesser",
+    "manicure": "Maniküre-Pediküre",
+    "accessories": "Zubehör",
+    "more": "Mehr"
+  },
+  "hero": {
+    "title": "C440 Professionelle Serie",
+    "description": "Erleben Sie Präzisionshandwerk mit unserer Premium C440 Kollektion"
+  },
+  "sections": {
+    "topSellers": "Bestseller",
+    "newArrivals": "Neuankömmlinge",
+    "productKnowledge": "Produktwissen",
+    "featuredProducts": "Empfohlene Produkte",
+    "seeMore": "Mehr Sehen",
+    "viewAll": "Alle Anzeigen",
+    "c420Description": "Entdecken Sie die Eleganz und Präzision unserer C420 Scherenserie",
+    "featuredDescription": "Erkunden Sie unsere Kollektion von Premium-Scheren und Pflegewerkzeugen, mit Präzision für Profis gefertigt."
+  },
+  "cta": {
+    "title": "Entdecken Sie Heute Ihre Professionellen Werkzeuge",
+    "description": "15% Rabatt auf die gesamte Kollektion - Zeitlich begrenztes Angebot",
+    "button": "Jetzt Einkaufen",
+    "bannerTitle": "Exklusive Rabatte bis zu 40%",
+    "bannerDescription": "Entdecken Sie Sonderangebote im PUNJA SALE, solange der Vorrat reicht.",
+    "bannerButton": "Sale Ansehen"
+  },
+  "search": {
+    "placeholder": "Produkte suchen..."
+  },
+  "pages": {
+    "scissors": {
+      "title": "Professionelle Scheren Kollektion",
+      "description": "Entdecken Sie unser komplettes Sortiment an professionellen Scheren, von der legendären C440 Serie bis hin zu spezialisierten Schneidwerkzeugen für jede Technik."
+    },
+    "razors": {
+      "title": "Rasiermesser",
+      "description": "Erleben Sie die Kunst des traditionellen Rasierens mit unserer Kollektion professioneller Rasiermesser, gefertigt für Friseure, die Perfektion verlangen."
+    },
+    "manicure": {
+      "title": "Maniküre & Pediküre Werkzeuge",
+      "description": "Professionelle Werkzeuge für präzise Nagelpflege und -pflege."
+    },
+    "accessories": {
+      "title": "Professionelles Zubehör",
+      "description": "Vervollständigen Sie Ihr professionelles Werkzeugsortiment mit unserer Palette an Premium-Zubehör, von Friseur-Essentials bis hin zu Küchenschneidwerkzeugen."
+    }
+  },
+  "product": {
+    "quickView": "Schnellansicht",
+    "addToCart": "Hinzufügen",
+    "category": {
+      "c440": "C440 Serie",
+      "c420": "C420 Serie",
+      "c2": "C2 Serie",
+      "specialist": "Spezialist",
+      "professional": "Professionell",
+      "manicure": "Maniküre",
+      "pedicure": "Pediküre",
+      "barberTools": "Friseurwerkzeuge",
+      "kitchen": "Küche"
+    }
+  },
+  "footer": {
+    "punja": "PUNJA",
+    "shop": "Shop",
+    "service": "Service",
+    "legal": "Rechtliches",
+    "aboutPunja": "Über Punja",
+    "qualityMarks": "Qualitätszeichen",
+    "production": "Produktion",
+    "scissors": "Scheren",
+    "razors": "Rasiermesser",
+    "manicurePedicure": "Maniküre-Pediküre",
+    "accessories": "Zubehör",
+    "sharpening": "Schärfen",
+    "faq": "FAQ",
+    "resellerFinder": "Händlerfinder",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "privacy": "Datenschutzrichtlinie",
+    "contact": "Kontakt",
+    "copyright": "© Punja Scheren"
+  },
+  "productKnowledge": {
+    "description": "Erfahren Sie mehr über die Handwerkskunst, Materialien und Techniken, die unsere Scheren außergewöhnlich machen. Entdecken Sie, wie Sie das richtige Werkzeug für Ihre Bedürfnisse auswählen und es für dauerhafte Leistung pflegen.",
+    "premiumSteel": "Premium japanische Stahlkonstruktion",
+    "ergonomicDesign": "Ergonomisches Design für längeren Gebrauch",
+    "maintenance": "Professionelle Wartungsrichtlinien",
+    "yearsExperience": "Jahre Erfahrung",
+    "qualityAssured": "Qualität garantiert",
+    "professionalsTrust": "Profis vertrauen uns",
+    "productRange": "Produktpalette",
+    "page": {
+      "title": "Produktwissen",
+      "description": "Erfahren Sie mehr über unsere Produkte, ihre Pflege und wie Sie die richtigen Werkzeuge für Ihre Bedürfnisse auswählen.",
+      "questions": {
+        "chooseScissors": {
+          "title": "Wie wählt man die richtige Schere?",
+          "answer": "Berücksichtigen Sie Ihre Schneidtechnik, Handgröße und die Art der Arbeit, die Sie am häufigsten ausführen. Unsere C440-Serie bietet vielseitige Optionen für allgemeines Schneiden, während spezialisierte Ausdünnungs- und Texturierungsscheren ideal für spezifische Techniken sind. Die Klingenlänge reicht typischerweise von 5,5\" bis 7\", wobei 6\" die beliebteste für den Allround-Einsatz ist."
+        },
+        "careMaintenance": {
+          "title": "Richtige Pflege und Wartung",
+          "answer": "Reinigen Sie Ihre Scheren nach jedem Gebrauch mit einem weichen Tuch. Ölen Sie den Drehpunkt regelmäßig mit professionellem Scherenöl. Lagern Sie sie in einem Schutzetui, wenn sie nicht verwendet werden. Lassen Sie sie jährlich oder wenn Sie eine verminderte Schneidleistung bemerken, professionell schärfen. Verwenden Sie Scheren niemals für etwas anderes als Haare, um die Klingenintegrität zu erhalten."
+        },
+        "scissorTypes": {
+          "title": "Scherentypen verstehen",
+          "answer": "<strong>Schneidescheren:</strong> Für allgemeines Haareschneiden und Formgebung.<br/><strong>Ausdünnungsscheren:</strong> Eine oder beide Klingen haben Zähne zum Entfernen von Volumen.<br/><strong>Texturierungsscheren:</strong> Weitere Zahnabstände für weichere, besser gemischte Ergebnisse.<br/><strong>Gebogene Scheren:</strong> Ideal für Detailarbeit und Präzisionsschneiden."
+        },
+        "c440Special": {
+          "title": "Was macht unsere C440-Serie besonders?",
+          "answer": "Die C440-Serie repräsentiert unsere Flaggschiff-Profiserie. Hergestellt aus Premium japanischem Stahl mit einer Rockwell-Härte von 58-60, behalten diese Scheren ihre Schärfe länger als herkömmliche Scheren. Das ergonomische Design reduziert Handermüdung bei längerem Gebrauch, und die konvexe Kante bietet die glatteste Schneidbewegung für mühelose Präzision."
+        },
+        "razorCare": {
+          "title": "Rasiermesser-Pflege",
+          "answer": "Nach jedem Gebrauch die Klinge gründlich reinigen und trocknen. Die Klinge regelmäßig abziehen, um die Schärfe zu erhalten. Für traditionelle Kohlenstoffstahl-Rasiermesser beim Lagern eine dünne Ölschicht auftragen. Professionelles Schärfen sollte je nach Verwendung alle paar Monate erfolgen. Immer in einer trockenen Umgebung lagern, um Rost zu vermeiden."
+        },
+        "warrantySupport": {
+          "title": "Garantie und Support",
+          "answer": "Alle Punja-Produkte kommen mit unserer Handwerksgarantie. Herstellungsfehler sind unter Garantie abgedeckt. Wir bieten professionelle Schärfdienste und Reparaturen für die Lebensdauer Ihrer Werkzeuge. Wenden Sie sich an Ihren autorisierten Händler für Garantieservice und Wartungsunterstützung."
+        }
+      }
+    }
+  },
+  "newArrivals": {
+    "title": "Neuankömmlinge",
+    "description": "Wir stellen unsere neuesten Ergänzungen zur professionellen Pflegekollektion vor"
+  },
+  "topSellers": {
+    "title": "Bestseller",
+    "description": "Unsere beliebtesten professionellen Scheren, denen Experten weltweit vertrauen"
+  },
+  "products": {
+    "scissors": {
+      "c440Professional": "C440 Professionelle Friseurschere",
+      "c440Premium": "C440 Premium Pflegeschere",
+      "c420Classic": "C420 Klassische Haarschere",
+      "c420Thinning": "C420 Ausdünnungsschere",
+      "c2Ergonomic": "C2 Ergonomische Schneideschere",
+      "professionalThinning": "Professionelle Ausdünnungsschere",
+      "curvedDetail": "Gebogene Detail-Schere",
+      "texturizing": "Texturierungsschere",
+      "c440Titanium": "C440 Titanium-beschichtete Schere",
+      "professional65": "Professionelle Haarschere 6.5\"",
+      "c420Precision": "C420 Präzisionsschere",
+      "japaneseSteel": "Japanische Stahl-Profischere",
+      "premium7": "Premium Friseurschere 7\"",
+      "surgicalGrade": "Chirurgische Qualitätsschere",
+      "leftHanded": "Ergonomische Linkshänderschere",
+      "blending": "Professionelle Mischschere"
+    },
+    "razors": {
+      "classicStraight": "Klassisches Rasiermesser",
+      "premiumBlack": "Premium Rasiermesser mit schwarzem Griff",
+      "chromeFinish": "Chrom-Rasiermesser",
+      "damascusSteel": "Damaststahl-Rasiermesser",
+      "vintageStyle": "Vintage-Stil Friseurrasierer",
+      "carbonSteel": "Professionelles Kohlenstoffstahl-Rasiermesser",
+      "swedishSteel": "Schwedischer Stahl-Rasiermesser",
+      "goldPlated": "Vergoldetes Luxus-Rasiermesser",
+      "japaneseStyle": "Japanischer Stil Rasiermesser",
+      "descriptions": {
+        "classicStraight": "Traditionelles Rasiermesser mit präzisionsgeschliffener Klinge für die perfekte Rasur",
+        "premiumBlack": "Ergonomisches Design mit Premium-Schwarzgriff für überlegene Kontrolle",
+        "chromeFinish": "Klassische Chromoberfläche mit Damaststahlklinge für außergewöhnliche Schärfehaltung",
+        "damascusSteel": "Premium Damaststahlklinge mit handgeschmiedetem Muster für ultimative Schärfe",
+        "vintageStyle": "Klassisches Vintage-Design mit moderner Präzisionsmechanik",
+        "carbonSteel": "Hochkohlenstoffstahlklinge mit außergewöhnlicher Schärfehaltung und Haltbarkeit",
+        "swedishSteel": "Premium schwedischer Stahl mit Spiegelfinish für professionelle Friseure",
+        "goldPlated": "Luxus vergoldeter Griff mit präzisionsgeschliffener Edelstahlklinge",
+        "japaneseStyle": "Traditionelle japanische Handwerkskunst mit modernem ergonomischem Design"
+      }
+    },
+    "manicure": {
+      "professionalManicure": "Professionelle Maniküre-Schere",
+      "curvedCuticle": "Gebogene Nagelhautschere",
+      "completePedicure": "Komplettes Pediküre-Werkzeugsortiment",
+      "premiumClipper": "Premium Nagelknipser-Set",
+      "cuticlePusher": "Professioneller Nagelhautschieber",
+      "nailFileSet": "Edelstahl-Nagelfeile-Set",
+      "toenailClippers": "Professionelle Zehennagelschere",
+      "completeKit": "Komplettes Maniküre- und Pediküre-Set",
+      "precisionNail": "Präzisions-Nagelschere"
+    },
+    "accessories": {
+      "groomingKit": "Professionelles Pflegeset",
+      "barberSet": "Friseur-Zubehör-Set",
+      "kitchenKnife": "Professionelles Küchenmesser",
+      "chefKnife8": "Kochmesser 8\" Premium",
+      "santokuKnife": "Japanisches Santoku-Messer",
+      "boningKnife": "Ausbeinmesser Professionell",
+      "barberCape": "Friseur-Umhang und Clipper-Set",
+      "combSet": "Professionelles Kamm-Set",
+      "paringKnife": "Schälmesser-Set 3-teilig",
+      "breadKnife": "Brotmesser gezahnt",
+      "shearsCase": "Friseurscheren-Etui-Set",
+      "steakKnife": "Steakmesser-Set 6-teilig"
+    }
+  },
+  "about": {
+    "title": "Über Punja",
+    "intro": "Punja steht für jahrzehntelanges Engagement im Handwerk der Präzisionswerkzeugherstellung. Unser Erbe basiert auf einem unerschütterlichen Engagement für Qualität, das traditionelles Handwerk mit moderner Innovation verbindet.",
+    "craftsmanship": {
+      "title": "Unser Handwerk",
+      "description": "Jedes Punja-Produkt wird sorgfältig aus Premium-Materialien und bewährten Techniken gefertigt. Unsere Meisterhandwerker bringen Generationen von Expertise in jedes Stück ein und stellen sicher, dass jede Schere, jedes Rasiermesser und jedes Werkzeug die strengen Standards erfüllt, die Profis verlangen."
+    },
+    "heritage": {
+      "title": "Erbe & Innovation",
+      "description": "Während wir traditionelle Herstellungsmethoden ehren, innovieren wir kontinuierlich, um den sich entwickelnden Bedürfnissen moderner Profis gerecht zu werden. Unsere legendäre C440-Serie verkörpert dieses Gleichgewicht und verbindet klassisches Design mit modernster Präzisionsmechanik."
+    },
+    "dedication": {
+      "title": "Branchenengagement",
+      "description": "Punja-Werkzeuge werden von Profis weltweit vertraut. Von Meisterfriseuren bis hin zu geschickten Handwerkern ermöglichen unsere Produkte Handwerkern, ihr Handwerk mit Vertrauen und Präzision auszuüben. Wir stellen nicht nur Werkzeuge her—wir schaffen Instrumente, die Exzellenz ermöglichen."
+    },
+    "quote": "Qualität ist keine Handlung, sondern eine Gewohnheit. Bei Punja ist Exzellenz unser Standard."
+  },
+  "c420": {
+    "image1": {
+      "title": "Professionelle Präzision",
+      "description": "Entwickelt für professionelle Friseure mit unvergleichlicher Schnittpräzision und Haltbarkeit."
+    },
+    "image2": {
+      "title": "Elegantes Design",
+      "description": "Schlankes ergonomisches Design, das Komfort mit außergewöhnlicher Leistung verbindet."
+    },
+    "image3": {
+      "title": "Meisterhandwerk",
+      "description": "Handgefertigte Exzellenz, die den höchsten Standards der professionellen Pflege entspricht."
+    }
+  }
+}

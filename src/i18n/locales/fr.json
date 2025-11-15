@@ -1,0 +1,233 @@
+{
+  "nav": {
+    "scissors": "Ciseaux",
+    "razors": "Rasoirs",
+    "manicure": "Manucure-Pédicure",
+    "accessories": "Accessoires",
+    "more": "Plus"
+  },
+  "hero": {
+    "title": "Série Professionnelle C440",
+    "description": "Découvrez l'artisanat de précision avec notre collection premium C440"
+  },
+  "sections": {
+    "topSellers": "Meilleures Ventes",
+    "newArrivals": "Nouveautés",
+    "productKnowledge": "Connaissance des Produits",
+    "featuredProducts": "Produits en Vedette",
+    "seeMore": "Voir Plus",
+    "viewAll": "Voir Tout",
+    "c420Description": "Découvrez l'élégance et la précision de notre gamme de ciseaux C420",
+    "featuredDescription": "Explorez notre collection de ciseaux premium et d'outils de toilettage, fabriqués avec précision pour les professionnels."
+  },
+  "cta": {
+    "title": "Découvrez Vos Outils Professionnels Aujourd'hui",
+    "description": "15% de réduction sur toute la collection - Offre à durée limitée",
+    "button": "Acheter Maintenant",
+    "bannerTitle": "Remises exclusives jusqu'à 40%",
+    "bannerDescription": "Découvrez les offres spéciales dans la VENTE PUNJA tant que les stocks durent.",
+    "bannerButton": "Voir la Vente"
+  },
+  "search": {
+    "placeholder": "Rechercher des produits..."
+  },
+  "pages": {
+    "scissors": {
+      "title": "Collection de Ciseaux Professionnels",
+      "description": "Découvrez notre gamme complète de ciseaux professionnels, de la légendaire série C440 aux outils de coupe spécialisés pour chaque technique."
+    },
+    "razors": {
+      "title": "Rasoirs Droits",
+      "description": "Découvrez l'art du rasage traditionnel avec notre collection de rasoirs droits professionnels, conçus pour les barbiers qui exigent la perfection."
+    },
+    "manicure": {
+      "title": "Outils de Manucure et Pédicure",
+      "description": "Outils de qualité professionnelle pour des soins et un toilettage précis des ongles."
+    },
+    "accessories": {
+      "title": "Accessoires Professionnels",
+      "description": "Complétez votre trousse d'outils professionnelle avec notre gamme d'accessoires premium, des essentiels de barbier aux outils de coupe de cuisine."
+    }
+  },
+  "product": {
+    "quickView": "Aperçu rapide",
+    "addToCart": "Ajouter",
+    "category": {
+      "c440": "Série C440",
+      "c420": "Série C420",
+      "c2": "Série C2",
+      "specialist": "Spécialiste",
+      "professional": "Professionnel",
+      "manicure": "Manucure",
+      "pedicure": "Pédicure",
+      "barberTools": "Outils de Barbier",
+      "kitchen": "Cuisine"
+    }
+  },
+  "footer": {
+    "punja": "PUNJA",
+    "shop": "Boutique",
+    "service": "Service",
+    "legal": "Légal",
+    "aboutPunja": "À propos de Punja",
+    "qualityMarks": "Marques de qualité",
+    "production": "Production",
+    "scissors": "Ciseaux",
+    "razors": "Rasoirs",
+    "manicurePedicure": "Manucure-Pédicure",
+    "accessories": "Accessoires",
+    "sharpening": "Affûtage",
+    "faq": "FAQ",
+    "resellerFinder": "Trouver un Revendeur",
+    "terms": "Conditions générales",
+    "privacy": "Politique de Confidentialité",
+    "contact": "Contact",
+    "copyright": "© Ciseaux Punja"
+  },
+  "productKnowledge": {
+    "description": "Découvrez l'artisanat, les matériaux et les techniques qui rendent nos ciseaux exceptionnels. Apprenez à choisir le bon outil pour vos besoins et à l'entretenir pour des performances durables.",
+    "premiumSteel": "Construction en acier japonais premium",
+    "ergonomicDesign": "Design ergonomique pour une utilisation prolongée",
+    "maintenance": "Directives d'entretien professionnel",
+    "yearsExperience": "Années d'Expérience",
+    "qualityAssured": "Qualité Garantie",
+    "professionalsTrust": "Les Professionnels Nous Font Confiance",
+    "productRange": "Gamme de Produits",
+    "page": {
+      "title": "Connaissance des Produits",
+      "description": "Découvrez nos produits, leur entretien et comment choisir les bons outils pour vos besoins.",
+      "questions": {
+        "chooseScissors": {
+          "title": "Comment choisir les bons ciseaux?",
+          "answer": "Tenez compte de votre technique de coupe, de la taille de votre main et du type de travail que vous effectuez le plus souvent. Notre série C440 offre des options polyvalentes pour la coupe générale, tandis que les ciseaux spécialisés d'éclaircissage et de texturation sont idéaux pour des techniques spécifiques. La longueur de la lame varie généralement de 5,5\" à 7\", 6\" étant la plus populaire pour un usage polyvalent."
+        },
+        "careMaintenance": {
+          "title": "Soins et entretien appropriés",
+          "answer": "Nettoyez vos ciseaux après chaque utilisation avec un chiffon doux. Huilez régulièrement le point de pivot avec de l'huile professionnelle pour ciseaux. Rangez-les dans un étui protecteur lorsqu'ils ne sont pas utilisés. Faites-les affûter professionnellement chaque année ou lorsque vous remarquez une diminution des performances de coupe. N'utilisez jamais les ciseaux sur autre chose que les cheveux pour maintenir l'intégrité de la lame."
+        },
+        "scissorTypes": {
+          "title": "Comprendre les types de ciseaux",
+          "answer": "<strong>Ciseaux de Coupe:</strong> Pour la coupe de cheveux générale et la création de formes.<br/><strong>Ciseaux d'Éclaircissage:</strong> Une ou les deux lames ont des dents pour enlever le volume.<br/><strong>Ciseaux de Texturation:</strong> Espacement des dents plus large pour des résultats plus doux et mieux mélangés.<br/><strong>Ciseaux Courbés:</strong> Idéaux pour le travail de détail et la coupe de précision."
+        },
+        "c440Special": {
+          "title": "Qu'est-ce qui rend notre série C440 spéciale?",
+          "answer": "La série C440 représente notre ligne professionnelle phare. Fabriqués en acier japonais premium avec une dureté Rockwell de 58-60, ces ciseaux maintiennent leur tranchant plus longtemps que les ciseaux conventionnels. Le design ergonomique réduit la fatigue de la main lors d'une utilisation prolongée, et le tranchant convexe offre l'action de coupe la plus fluide pour une précision sans effort."
+        },
+        "razorCare": {
+          "title": "Soins du rasoir droit",
+          "answer": "Après chaque utilisation, nettoyez et séchez soigneusement la lame. Affûtez régulièrement la lame pour maintenir le tranchant. Pour les rasoirs en acier au carbone traditionnel, appliquez une fine couche d'huile lors du stockage. L'affûtage professionnel doit être effectué tous les quelques mois selon l'utilisation. Rangez toujours dans un environnement sec pour éviter la rouille."
+        },
+        "warrantySupport": {
+          "title": "Garantie et support",
+          "answer": "Tous les produits Punja sont accompagnés de notre garantie d'artisanat. Les défauts de fabrication sont couverts par la garantie. Nous offrons des services d'affûtage professionnel et de réparation pour la durée de vie de vos outils. Contactez votre revendeur autorisé pour le service de garantie et le support de maintenance."
+        }
+      }
+    }
+  },
+  "newArrivals": {
+    "title": "Nouveautés",
+    "description": "Nous présentons nos derniers ajouts à la collection de toilettage professionnel"
+  },
+  "topSellers": {
+    "title": "Meilleures Ventes",
+    "description": "Nos ciseaux professionnels les plus populaires, approuvés par des experts du monde entier"
+  },
+  "products": {
+    "scissors": {
+      "c440Professional": "Ciseaux de Barbier Professionnels C440",
+      "c440Premium": "Ciseaux de Toilettage Premium C440",
+      "c420Classic": "Ciseaux de Coupe Classiques C420",
+      "c420Thinning": "Ciseaux d'Éclaircissage C420",
+      "c2Ergonomic": "Ciseaux de Coupe Ergonomiques C2",
+      "professionalThinning": "Ciseaux d'Éclaircissage Professionnels",
+      "curvedDetail": "Ciseaux à Détails Courbés",
+      "texturizing": "Ciseaux de Texturation",
+      "c440Titanium": "Ciseaux Revêtus de Titane C440",
+      "professional65": "Ciseaux de Coupe Professionnels 6.5\"",
+      "c420Precision": "Ciseaux de Précision C420",
+      "japaneseSteel": "Ciseaux Professionnels en Acier Japonais",
+      "premium7": "Ciseaux de Barbier Premium 7\"",
+      "surgicalGrade": "Ciseaux de Qualité Chirurgicale",
+      "leftHanded": "Ciseaux Ergonomiques pour Gauchers",
+      "blending": "Ciseaux de Mélange Professionnels"
+    },
+    "razors": {
+      "classicStraight": "Rasoir Droit Classique",
+      "premiumBlack": "Rasoir Premium à Manche Noir",
+      "chromeFinish": "Rasoir Droit Finition Chrome",
+      "damascusSteel": "Rasoir Droit en Acier Damas",
+      "vintageStyle": "Rasoir de Barbier Style Vintage",
+      "carbonSteel": "Rasoir Professionnel en Acier au Carbone",
+      "swedishSteel": "Rasoir Droit en Acier Suédois",
+      "goldPlated": "Rasoir de Luxe Doré",
+      "japaneseStyle": "Rasoir Style Japonais",
+      "descriptions": {
+        "classicStraight": "Rasoir droit traditionnel avec lame affûtée avec précision pour le rasage parfait",
+        "premiumBlack": "Design ergonomique avec manche noir premium pour un contrôle supérieur",
+        "chromeFinish": "Finition chrome classique avec lame en acier Damas pour une rétention de tranchant exceptionnelle",
+        "damascusSteel": "Lame en acier Damas premium avec motif forgé à la main pour une netteté ultime",
+        "vintageStyle": "Design vintage classique avec ingénierie de précision moderne",
+        "carbonSteel": "Lame en acier à haute teneur en carbone avec rétention de tranchant et durabilité exceptionnelles",
+        "swedishSteel": "Acier suédois premium avec finition miroir pour les barbiers professionnels",
+        "goldPlated": "Manche doré de luxe avec lame en acier inoxydable affûtée avec précision",
+        "japaneseStyle": "Artisanat japonais traditionnel avec design ergonomique moderne"
+      }
+    },
+    "manicure": {
+      "professionalManicure": "Ciseaux de Manucure Professionnels",
+      "curvedCuticle": "Ciseaux à Cuticules Courbés",
+      "completePedicure": "Set d'Outils de Pédicure Complet",
+      "premiumClipper": "Set de Coupe-Ongles Premium",
+      "cuticlePusher": "Repousse-Cuticules Professionnel",
+      "nailFileSet": "Set de Limes à Ongles en Acier Inoxydable",
+      "toenailClippers": "Coupe-Ongles d'Orteils Professionnels",
+      "completeKit": "Set Complet de Manucure et Pédicure",
+      "precisionNail": "Ciseaux à Ongles de Précision"
+    },
+    "accessories": {
+      "groomingKit": "Set de Toilettage Professionnel",
+      "barberSet": "Set d'Accessoires de Barbier",
+      "kitchenKnife": "Couteau de Cuisine Professionnel",
+      "chefKnife8": "Couteau de Chef 8\" Premium",
+      "santokuKnife": "Couteau Santoku Japonais",
+      "boningKnife": "Couteau à Désosser Professionnel",
+      "barberCape": "Set Cape de Barbier et Tondeuse",
+      "combSet": "Set de Peignes Professionnels",
+      "paringKnife": "Set de Couteaux d'Office 3 Pièces",
+      "breadKnife": "Couteau à Pain Dentelé",
+      "shearsCase": "Set d'Étui pour Ciseaux de Barbier",
+      "steakKnife": "Set de Couteaux à Steak 6 Pièces"
+    }
+  },
+  "about": {
+    "title": "À propos de Punja",
+    "intro": "Punja représente des décennies de dévouement à l'art de la fabrication d'outils de précision. Notre héritage est construit sur un engagement inébranlable envers la qualité, combinant l'artisanat traditionnel avec l'innovation moderne.",
+    "craftsmanship": {
+      "title": "Notre Artisanat",
+      "description": "Chaque produit Punja est méticuleusement fabriqué en utilisant des matériaux premium et des techniques éprouvées. Nos maîtres artisans apportent des générations d'expertise à chaque pièce, garantissant que chaque ciseau, rasoir et outil répond aux normes exigeantes que les professionnels exigent."
+    },
+    "heritage": {
+      "title": "Héritage et Innovation",
+      "description": "Alors que nous honorons les méthodes de fabrication traditionnelles, nous innovons continuellement pour répondre aux besoins évolutifs des professionnels modernes. Notre légendaire série C440 illustre cet équilibre, combinant un design classique avec une ingénierie de précision de pointe."
+    },
+    "dedication": {
+      "title": "Dévouement à l'Industrie",
+      "description": "Les outils Punja sont approuvés par les professionnels du monde entier. Des maîtres barbiers aux artisans qualifiés, nos produits permettent aux artisans d'exercer leur métier avec confiance et précision. Nous ne fabriquons pas seulement des outils—nous créons des instruments qui permettent l'excellence."
+    },
+    "quote": "La qualité n'est pas un acte, c'est une habitude. Chez Punja, l'excellence est notre norme."
+  },
+  "c420": {
+    "image1": {
+      "title": "Précision Professionnelle",
+      "description": "Conçu pour les barbiers professionnels avec une précision de coupe et une durabilité inégalées."
+    },
+    "image2": {
+      "title": "Design Élégant",
+      "description": "Design ergonomique élégant qui allie confort et performance exceptionnelle."
+    },
+    "image3": {
+      "title": "Maîtrise Artisanale",
+      "description": "Excellence artisanale qui répond aux normes les plus élevées de toilettage professionnel."
+    }
+  }
+}

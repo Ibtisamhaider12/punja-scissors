@@ -1,0 +1,238 @@
+{
+  "nav": {
+    "scissors": "Makas",
+    "razors": "Jiletler",
+    "manicure": "Manikür-Pedikür",
+    "accessories": "Aksesuarlar",
+    "more": "Daha Fazla"
+  },
+  "hero": {
+    "title": "C440 Profesyonel Serisi",
+    "description": "Premium C440 koleksiyonumuzla hassas işçiliği deneyimleyin"
+  },
+  "sections": {
+    "topSellers": "En Çok Satanlar",
+    "newArrivals": "Yeni Gelenler",
+    "productKnowledge": "Ürün Bilgisi",
+    "featuredProducts": "Öne Çıkan Ürünler",
+    "seeMore": "Daha Fazla Gör",
+    "viewAll": "Tümünü Gör",
+    "c420Description": "C420 makas serimizin zarafetini ve hassasiyetini keşfedin",
+    "featuredDescription": "Profesyoneller için hassasiyetle üretilmiş premium makas ve bakım aletleri koleksiyonumuzu keşfedin."
+  },
+  "cta": {
+    "title": "Profesyonel Araçlarınızı Bugün Keşfedin",
+    "description": "Tüm koleksiyonda %15 indirim - Sınırlı süreli teklif",
+    "button": "Şimdi Alışveriş Yapın",
+    "bannerTitle": "%40'a varan özel indirimler",
+    "bannerDescription": "Stoklar tükenmeden PUNJA İNDİRİM'deki özel teklifleri keşfedin.",
+    "bannerButton": "İndirimi Gör"
+  },
+  "search": {
+    "placeholder": "Ürün ara...",
+    "noResults": "Sonuç bulunamadı. Farklı anahtar kelimeler deneyin.",
+    "results": "Arama Sonuçları",
+    "moreResults": "+{count} sonuç daha",
+    "suggestions": "Öneriler",
+    "trySearching": "Şunları aramayı deneyin: makas, jilet, bıçak veya aksesuar"
+  },
+  "pages": {
+    "scissors": {
+      "title": "Profesyonel Makas Koleksiyonu",
+      "description": "Efsanevi C440 serisinden her tekniğe özel kesme aletlerine kadar profesyonel makas yelpazemizi keşfedin."
+    },
+    "razors": {
+      "title": "Jiletler",
+      "description": "Mükemmellik isteyen berberler için üretilmiş profesyonel jilet koleksiyonumuzla geleneksel tıraş sanatını deneyimleyin."
+    },
+    "manicure": {
+      "title": "Manikür ve Pedikür Aletleri",
+      "description": "Hassas tırnak bakımı ve bakımı için profesyonel kalitede aletler."
+    },
+    "accessories": {
+      "title": "Profesyonel Aksesuarlar",
+      "description": "Berber temel ihtiyaçlarından mutfak kesme aletlerine kadar premium aksesuar yelpazemizle profesyonel araç setinizi tamamlayın."
+    }
+  },
+  "product": {
+    "quickView": "Hızlı görünüm",
+    "addToCart": "Ekle",
+    "category": {
+      "c440": "C440 Serisi",
+      "c420": "C420 Serisi",
+      "c2": "C2 Serisi",
+      "specialist": "Uzman",
+      "professional": "Profesyonel",
+      "manicure": "Manikür",
+      "pedicure": "Pedikür",
+      "barberTools": "Berber Aletleri",
+      "kitchen": "Mutfak"
+    }
+  },
+  "footer": {
+    "punja": "PUNJA",
+    "shop": "Mağaza",
+    "service": "Hizmet",
+    "legal": "Yasal",
+    "aboutPunja": "Punja Hakkında",
+    "qualityMarks": "Kalite işaretleri",
+    "production": "Üretim",
+    "scissors": "Makas",
+    "razors": "Jiletler",
+    "manicurePedicure": "Manikür-Pedikür",
+    "accessories": "Aksesuarlar",
+    "sharpening": "Bileme",
+    "faq": "SSS",
+    "resellerFinder": "Bayi Bulucu",
+    "terms": "Şartlar ve koşullar",
+    "privacy": "Gizlilik Politikası",
+    "contact": "İletişim",
+    "copyright": "© Punja Makas"
+  },
+  "productKnowledge": {
+    "description": "Makaslarımızı olağanüstü kılan işçilik, malzemeler ve teknikler hakkında bilgi edinin. İhtiyaçlarınız için doğru aleti nasıl seçeceğinizi ve kalıcı performans için nasıl bakım yapacağınızı keşfedin.",
+    "premiumSteel": "Premium Japon çelik yapısı",
+    "ergonomicDesign": "Uzun süreli kullanım için ergonomik tasarım",
+    "maintenance": "Profesyonel bakım talimatları",
+    "yearsExperience": "Yıl Deneyim",
+    "qualityAssured": "Kalite Garantili",
+    "professionalsTrust": "Profesyoneller Bize Güveniyor",
+    "productRange": "Ürün Yelpazesi",
+    "page": {
+      "title": "Ürün Bilgisi",
+      "description": "Ürünlerimiz, bakımları ve ihtiyaçlarınız için doğru aletleri nasıl seçeceğiniz hakkında bilgi edinin.",
+      "questions": {
+        "chooseScissors": {
+          "title": "Doğru makası nasıl seçersiniz?",
+          "answer": "Kesim tekniğinizi, el boyutunuzu ve en sık yaptığınız iş türünü düşünün. C440 serimiz genel kesim için çok yönlü seçenekler sunarken, özel inceltme ve dokulandırma makasları belirli teknikler için idealdir. Bıçak uzunluğu genellikle 5.5\" ile 7\" arasında değişir, 6\" tüm kullanımlar için en popüler olanıdır."
+        },
+        "careMaintenance": {
+          "title": "Uygun bakım ve bakım",
+          "answer": "Makaslarınızı her kullanımdan sonra yumuşak bir bezle temizleyin. Pivot noktasını düzenli olarak profesyonel makas yağı ile yağlayın. Kullanılmadığında koruyucu bir kılıfta saklayın. Yılda bir kez veya kesim performansında azalma fark ettiğinizde profesyonel olarak bilettirin. Bıçak bütünlüğünü korumak için makasları saçtan başka hiçbir şeyde kullanmayın."
+        },
+        "scissorTypes": {
+          "title": "Makas türlerini anlama",
+          "answer": "<strong>Kesme Makası:</strong> Genel saç kesimi ve şekil oluşturma için.<br/><strong>İnceltici Makas:</strong> Bir veya her iki bıçakta hacim azaltmak için dişler vardır.<br/><strong>Dokulandırma Makası:</strong> Daha yumuşak, daha harmanlanmış sonuçlar için daha geniş diş aralığı.<br/><strong>Kavisli Makas:</strong> Detay işleri ve hassas kesim için idealdir."
+        },
+        "c440Special": {
+          "title": "C440 serimizi özel kılan nedir?",
+          "answer": "C440 serisi amiral gemisi profesyonel hattımızı temsil eder. Rockwell sertliği 58-60 olan premium Japon çeliğinden yapılmış bu makaslar, kenarlarını geleneksel makaslardan daha uzun süre korur. Ergonomik tasarım uzun süreli kullanımda el yorgunluğunu azaltır ve dışbükey kenar zahmetsiz hassasiyet için en pürüzsüz kesim hareketini sağlar."
+        },
+        "razorCare": {
+          "title": "Düz jilet bakımı",
+          "answer": "Her kullanımdan sonra bıçağı iyice temizleyin ve kurulayın. Kenarı korumak için bıçağı düzenli olarak bileyin. Geleneksel karbon çelik jiletler için saklarken ince bir yağ tabakası uygulayın. Profesyonel bileme kullanıma bağlı olarak birkaç ayda bir yapılmalıdır. Paslanmayı önlemek için her zaman kuru bir ortamda saklayın."
+        },
+        "warrantySupport": {
+          "title": "Garanti ve destek",
+          "answer": "Tüm Punja ürünleri zanaatkarlık garantimizle gelir. Üretim hataları garanti kapsamındadır. Aletlerinizin ömrü boyunca profesyonel bileme hizmetleri ve onarımlar sunuyoruz. Garanti hizmeti ve bakım desteği için yetkili bayinizle iletişime geçin."
+        }
+      }
+    }
+  },
+  "newArrivals": {
+    "title": "Yeni Gelenler",
+    "description": "Profesyonel bakım koleksiyonumuza en son eklemelerimizi tanıtıyoruz"
+  },
+  "topSellers": {
+    "title": "En Çok Satanlar",
+    "description": "Dünya çapında uzmanlar tarafından güvenilen en popüler profesyonel makaslarımız"
+  },
+  "products": {
+    "scissors": {
+      "c440Professional": "C440 Profesyonel Berber Makası",
+      "c440Premium": "C440 Premium Bakım Makası",
+      "c420Classic": "C420 Klasik Saç Kesim Makası",
+      "c420Thinning": "C420 İnceltici Makas",
+      "c2Ergonomic": "C2 Ergonomik Kesim Makası",
+      "professionalThinning": "Profesyonel İnceltici Makas",
+      "curvedDetail": "Kavisli Detay Makası",
+      "texturizing": "Dokulandırma Makası",
+      "c440Titanium": "C440 Titanyum Kaplı Makas",
+      "professional65": "Profesyonel Saç Kesim Makası 6.5\"",
+      "c420Precision": "C420 Hassas Kesim Makası",
+      "japaneseSteel": "Japon Çelik Profesyonel Makas",
+      "premium7": "Premium Berber Makası 7\"",
+      "surgicalGrade": "Cerrahi Kalite Kesim Makası",
+      "leftHanded": "Ergonomik Solak Makas",
+      "blending": "Profesyonel Harmanlama Makası"
+    },
+    "razors": {
+      "classicStraight": "Klasik Düz Jilet",
+      "premiumBlack": "Premium Siyah Saplı Jilet",
+      "chromeFinish": "Krom Kaplama Düz Jilet",
+      "damascusSteel": "Damascus Çelik Düz Jilet",
+      "vintageStyle": "Vintage Tarzı Berber Jileti",
+      "carbonSteel": "Profesyonel Karbon Çelik Jilet",
+      "swedishSteel": "İsveç Çelik Düz Jilet",
+      "goldPlated": "Altın Kaplama Lüks Jilet",
+      "japaneseStyle": "Japon Tarzı Düz Jilet",
+      "descriptions": {
+        "classicStraight": "Mükemmel tıraş için hassas bıçaklı geleneksel düz jilet",
+        "premiumBlack": "Üstün kontrol için premium siyah saplı ergonomik tasarım",
+        "chromeFinish": "Olağanüstü kenar tutma için Damascus çelik bıçaklı klasik krom kaplama",
+        "damascusSteel": "Nihai keskinlik için el dövme desenli premium Damascus çelik bıçak",
+        "vintageStyle": "Modern hassas mühendislikli klasik vintage tasarım",
+        "carbonSteel": "Olağanüstü kenar tutma ve dayanıklılık için yüksek karbonlu çelik bıçak",
+        "swedishSteel": "Profesyonel berberler için ayna parlatma bitirmeli premium İsveç çeliği",
+        "goldPlated": "Hassas zemin paslanmaz çelik bıçaklı lüks altın kaplama sap",
+        "japaneseStyle": "Modern ergonomik tasarımlı geleneksel Japon işçiliği"
+      }
+    },
+    "manicure": {
+      "professionalManicure": "Profesyonel Manikür Makası",
+      "curvedCuticle": "Kavisli Tırnak Eti Makası",
+      "completePedicure": "Tam Pedikür Alet Seti",
+      "premiumClipper": "Premium Tırnak Makası Seti",
+      "cuticlePusher": "Profesyonel Tırnak Eti İticisi",
+      "nailFileSet": "Paslanmaz Çelik Tırnak Törpüsü Seti",
+      "toenailClippers": "Profesyonel Ayak Tırnağı Makası",
+      "completeKit": "Tam Manikür ve Pedikür Seti",
+      "precisionNail": "Hassas Tırnak Makası"
+    },
+    "accessories": {
+      "groomingKit": "Profesyonel Bakım Seti",
+      "barberSet": "Berber Aksesuar Seti",
+      "kitchenKnife": "Profesyonel Mutfak Bıçağı",
+      "chefKnife8": "Şef Bıçağı 8\" Premium",
+      "santokuKnife": "Japon Santoku Bıçağı",
+      "boningKnife": "Kemik Çıkarma Bıçağı Profesyonel",
+      "barberCape": "Berber Önlüğü ve Klips Seti",
+      "combSet": "Profesyonel Tarak Seti",
+      "paringKnife": "Soyma Bıçağı Seti 3 Parça",
+      "breadKnife": "Ekmek Bıçağı Tırtıklı",
+      "shearsCase": "Berber Makası Kılıf Seti",
+      "steakKnife": "Biftek Bıçağı Seti 6 Parça"
+    }
+  },
+  "about": {
+    "title": "Punja Hakkında",
+    "intro": "Punja, hassas alet üretimi zanaatına onlarca yıllık adanmışlığı temsil eder. Mirasımız, geleneksel zanaatkarlık ile modern yeniliği birleştiren, kaliteye sarsılmaz bir bağlılık üzerine kuruludur.",
+    "craftsmanship": {
+      "title": "Zanaatkarlığımız",
+      "description": "Her Punja ürünü, premium malzemeler ve zamanın testinden geçmiş teknikler kullanılarak titizlikle üretilir. Usta zanaatkarlarımız, her parçaya nesiller boyu birikmiş uzmanlık getirir ve her makas, jilet ve aletin profesyonellerin talep ettiği titiz standartları karşılamasını sağlar."
+    },
+    "heritage": {
+      "title": "Miras ve Yenilik",
+      "description": "Geleneksel üretim yöntemlerini onurlandırırken, modern profesyonellerin gelişen ihtiyaçlarını karşılamak için sürekli yenilik yapıyoruz. Efsanevi C440 serimiz, klasik tasarımı en son teknoloji hassas mühendislikle birleştirerek bu dengeyi örnekliyor."
+    },
+    "dedication": {
+      "title": "Endüstri Adanmışlığı",
+      "description": "Punja aletleri dünya çapında profesyoneller tarafından güvenilir. Usta berberlerden yetenekli zanaatkarlara kadar, ürünlerimiz sanatkarların zanaatlarını güven ve hassasiyetle gerçekleştirmelerini sağlar. Sadece alet yapmıyoruz—mükemmelliği mümkün kılan enstrümanlar yaratıyoruz."
+    },
+    "quote": "Kalite bir eylem değil, bir alışkanlıktır. Punja'da mükemmellik standartımızdır."
+  },
+  "c420": {
+    "image1": {
+      "title": "Profesyonel Hassasiyet",
+      "description": "Eşsiz kesim hassasiyeti ve dayanıklılık ile profesyonel berberler için tasarlanmıştır."
+    },
+    "image2": {
+      "title": "Zarif Tasarım",
+      "description": "Konforu olağanüstü performansla birleştiren şık ergonomik tasarım."
+    },
+    "image3": {
+      "title": "Usta İşçiliği",
+      "description": "Profesyonel bakımın en yüksek standartlarını karşılayan el yapımı mükemmellik."
+    }
+  }
+}
