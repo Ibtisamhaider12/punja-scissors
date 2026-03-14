@@ -5,7 +5,6 @@ import hero1 from "@/assets/c440-hero-1.jpg";
 import hero2 from "@/assets/c440-hero-2.jpg";
 import hero3 from "@/assets/c440-hero-3.jpg";
 import hero4 from "@/assets/c440-hero-4.jpg";
-import hero5 from "@/assets/c440-hero-5.jpg";
 import hero6 from "@/assets/c440-hero-6.jpg";
 
 const heroImages = [
@@ -13,7 +12,6 @@ const heroImages = [
   { id: 2, image: hero2, alt: "C440 Scissors Close-up Detail" },
   { id: 3, image: hero3, alt: "C440 Scissors in Action" },
   { id: 4, image: hero4, alt: "C440 Scissors Collection" },
-  { id: 5, image: hero5, alt: "C440 Scissors Precision View" },
   { id: 6, image: hero6, alt: "C440 Premium Scissors Studio Shot" },
 ];
 
@@ -39,7 +37,7 @@ const HeroCarousel = () => {
         <CarouselContent>
           {heroImages.map((item) => (
             <CarouselItem key={item.id}>
-              <div className="relative w-full h-[300px] md:h-[400px] lg:h-[500px] overflow-hidden group">
+              <div className="relative w-full aspect-[21/9] md:aspect-[21/8] lg:aspect-[21/7] overflow-hidden group">
                 <img
                   src={item.image}
                   alt={item.alt}

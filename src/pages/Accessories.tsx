@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import accessories1 from "@/assets/product-accessories-1.jpg";
 import barberAccessories from "@/assets/barber-accessories.jpg";
 import scissors1 from "@/assets/product-scissors-1.jpg";
-import scissors2 from "@/assets/product-scissors-2.jpg";
+import scissors2 from "@/assets/440C_107b.jpg";
 import razor1 from "@/assets/product-razor-1.jpg";
 import razorBlack from "@/assets/razor-classic-black.jpg";
 import { getImageByType } from "@/data/products";

@@ -1,6 +1,6 @@
 import static1 from "@/assets/c420-static-1.jpg";
 import static2 from "@/assets/c420-static-2.jpg";
-import static3 from "@/assets/c420-static-3.jpg";
+import static3 from "@/assets/c420-static-1.jpg";
 import { useTranslation } from "react-i18next";
 
 const C420StaticSection = () => {
@@ -33,7 +33,7 @@ const C420StaticSection = () => {
       <div className="relative max-w-container mx-auto px-6 md:px-10 lg:px-12">
         <div className="text-center mb-12 md:mb-16 animate-in fade-in slide-in-from-bottom-4">
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-elegant font-bold text-foreground mb-3 md:mb-4 bg-gradient-to-r from-foreground to-foreground/80 bg-clip-text">
-            C420 Collection
+            {t('sections.c420StaticSectionTitle', 'C420 Collection')}
           </h2>
           <p className="text-muted-foreground text-xs md:text-sm max-w-2xl mx-auto">
             {t('sections.c420Description', 'Discover the elegance and precision of our C420 scissors range')}

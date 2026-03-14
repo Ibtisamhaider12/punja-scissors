@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import ProductCard from "@/components/ProductCard";
 import { useTranslation } from "react-i18next";
 import scissors1 from "@/assets/product-scissors-1.jpg";
-import scissors2 from "@/assets/product-scissors-2.jpg";
+import scissors2 from "@/assets/product-scissors-4.jpg";
 import scissors3 from "@/assets/product-scissors-3.jpg";
 import razor1 from "@/assets/product-razor-1.jpg";
 import razorBlack from "@/assets/razor-classic-black.jpg";

@@ -5,13 +5,13 @@
 // Scissors images - using existing assets and verified tool images
 // Reusing existing asset images to ensure quality and relevance
 import scissors1 from "@/assets/product-scissors-1.jpg";
-import scissors2 from "@/assets/product-scissors-2.jpg";
+import scissors2 from "@/assets/product-scissors-5.jpg";
 import scissors3 from "@/assets/product-scissors-3.jpg";
 import scissors4 from "@/assets/product-scissors-4.jpg";
 import scissors5 from "@/assets/product-scissors-5.jpg";
-import thinning from "@/assets/thinning-scissors.jpg";
+import thinning from "@/assets/440C_107b.jpg";
 import curved from "@/assets/curved-scissors.jpg";
-import texturizing from "@/assets/texturizing-scissors.jpg";
+import texturizing from "@/assets/440C_104b.png";
 
 // Additional high-quality 4K tool images from Pexels/Unsplash
 // These are verified tool-specific images (scissors, razors, knives)
@@ -80,7 +80,7 @@ const barberAccessoryImages = [
 ];
 
 // Manicure/pedicure tool images - using existing assets and new 4K images
-import manicure1 from "@/assets/product-manicure-1.jpg";
+import manicure1 from "@/assets/razor-classic-silver.jpg";
 import manicureCurved from "@/assets/manicure-curved.jpg";
 import pedicure from "@/assets/pedicure-tools.jpg";
 

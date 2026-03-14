@@ -2,14 +2,14 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ProductCard from "@/components/ProductCard";
 import { useTranslation } from "react-i18next";
-import scissors1 from "@/assets/product-scissors-1.jpg";
-import scissors2 from "@/assets/product-scissors-2.jpg";
+import scissors1 from "@/assets/440C_100.jpg";
+import scissors2 from "@/assets/440C_107b.jpg";
 import scissors3 from "@/assets/product-scissors-3.jpg";
 import scissors4 from "@/assets/product-scissors-4.jpg";
 import scissors5 from "@/assets/product-scissors-5.jpg";
-import thinning from "@/assets/thinning-scissors.jpg";
+import thinning from "@/assets/product-scissors-1.jpg";
 import curved from "@/assets/curved-scissors.jpg";
-import texturizing from "@/assets/texturizing-scissors.jpg";
+import texturizing from "@/assets/product-scissors-1.jpg";
 import { getImageByType } from "@/data/products";
 
 const Scissors = () => {

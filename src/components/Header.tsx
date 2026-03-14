@@ -7,7 +7,7 @@ import { useTranslation } from "react-i18next";
 import punjaLogo from "@/assets/punja-logo-full.png";
 import scissors1 from "@/assets/product-scissors-1.jpg";
 import razor1 from "@/assets/product-razor-1.jpg";
-import manicure1 from "@/assets/product-manicure-1.jpg";
+import manicure1 from "@/assets/razor-classic-silver.jpg";
 import accessories1 from "@/assets/product-accessories-1.jpg";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import SearchBar from "@/components/SearchBar";
@@ -99,7 +99,7 @@ const Header = () => {
             <img 
               src={punjaLogo} 
               alt="Punja" 
-              className="relative h-14 md:h-16 lg:h-20 w-auto transition-all duration-500 group-hover:scale-110 filter drop-shadow-xl" 
+              className="relative h-10 md:h-12 lg:h-14 w-auto transition-all duration-500 group-hover:scale-110 filter drop-shadow-xl" 
               style={{ imageRendering: 'crisp-edges' }}
             />
           </Link>

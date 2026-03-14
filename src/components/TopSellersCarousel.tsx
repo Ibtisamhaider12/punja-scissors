@@ -2,11 +2,11 @@ import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { Star, TrendingUp, ChevronLeft, ChevronRight } from "lucide-react";
 import scissors1 from "@/assets/product-scissors-1.jpg";
-import scissors2 from "@/assets/product-scissors-2.jpg";
+import scissors2 from "@/assets/product-scissors-5.jpg";
 import scissors3 from "@/assets/product-scissors-3.jpg";
 import scissors4 from "@/assets/product-scissors-4.jpg";
 import scissors5 from "@/assets/product-scissors-5.jpg";
-import thinning from "@/assets/thinning-scissors.jpg";
+import thinning from "@/assets/product-scissors-3.jpg";
 
 const TopSellersCarousel = () => {
   const { t } = useTranslation();
